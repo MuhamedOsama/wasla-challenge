@@ -1,0 +1,7 @@
+SELECT
+	*
+FROM
+	Startup
+ORDER BY
+	Funding DESC
+LIMIT 5;
